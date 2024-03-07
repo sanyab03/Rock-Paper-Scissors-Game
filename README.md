@@ -1,2 +1,5 @@
 # Rock-Paper-Scissors-Game
 Rock Paper Scissors Game using HTML ,CSS and JavaScript
+Author
+<br>
+Sanya Bansal
